@@ -1,0 +1,12 @@
+url,domain,discovery_source,risk_score,risk_level,confirmed_live,investigated_at
+http://33xxnp.com,33xxnp.com,typosquat,32,LOW,False,2026-07-26 00:31:35.669435+00:00
+http://33xx.xyz,33xx.xyz,typosquat,29,LOW,False,2026-07-26 00:32:06.185661+00:00
+http://33xx.com.com,33xx.com.com,typosquat,27,LOW,False,2026-07-26 00:31:24.563031+00:00
+http://33xx.com.xyz,33xx.com.xyz,typosquat,23,LOW,False,2026-07-26 00:31:41.191487+00:00
+http://33xx.com.org,33xx.com.org,typosquat,20,LOW,False,2026-07-26 00:31:31.324614+00:00
+http://33xx.io,33xx.io,manual,20,LOW,False,2026-07-26 00:39:07.926580+00:00
+http://33xx.online,33xx.online,typosquat,20,LOW,False,2026-07-26 00:31:43.837687+00:00
+http://33xx.info,33xx.info,typosquat,19,BENIGN,False,2026-07-26 00:31:48.563316+00:00
+http://33xx.org,33xx.org,typosquat,16,BENIGN,False,2026-07-26 00:31:58.859018+00:00
+http://33xx.net,33xx.net,typosquat,16,BENIGN,False,2026-07-26 00:31:57.924556+00:00
+http://33xx.com,33xx.com,typosquat,16,BENIGN,False,2026-07-26 00:31:50.749543+00:00
